@@ -15,3 +15,9 @@ This project demonstrates **Multiple Linear Regression** using the California ho
    - Cross-Validation (CV)
 
 ## Evaluation Results
+MSE: 0.5243  
+RMSE: 0.7241  
+MAE: 0.5311  
+Relative MSE: 0.3937  
+CV Scores: [-0.4849, -0.6225, -0.6462, -0.5432, -0.4947]  
+Mean CV Score: -0.5583  
